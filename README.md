@@ -28,7 +28,7 @@ git clone https://github.com/Sarfraz-Baloch/FILESARFRAZ
 
 cd FILESARFRAZ
 
-python2 SARFRAZ.py
+python2 SSB.Pro
 
 
 ##MENU##
